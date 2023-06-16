@@ -25,6 +25,7 @@ const CourseTimelineCard = props => {
           <Duration>{duration}</Duration>
         </DurationContainer>
       </CourseTitleAndDurationContainer>
+      <CourseDescription>{description}</CourseDescription>
       <CourseTagsList>
         {tagsList.map(eachTag => (
           <CourseTagItem key={eachTag.id}>

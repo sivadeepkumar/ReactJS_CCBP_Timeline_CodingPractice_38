@@ -28,7 +28,7 @@ const TimelineView = props => {
       <ResponsiveContainer>
         <HeaderContainer>
           <Heading>
-            MY JOUREY OF <br /> <CCBPHeading>CCBP 4.0 </CCBPHeading>
+            MY JOURNEY OF <br /> <CCBPHeading>CCBP 4.0 </CCBPHeading>
           </Heading>
         </HeaderContainer>
         <Chrono
